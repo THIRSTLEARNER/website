@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: o
+}
+
+.wrapper{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.img-pic{
+    width: 500px;
+    text-align: left;
+    
+}
+.img-ds{
+    width: 500px;
+text-align: right; /* Aligns content inside the container to the left */
+
+    
+}
